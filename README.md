@@ -1,1 +1,1 @@
-Uzdevums bija izveidot formu, varēja izmantot tikai js, css
+Viss tika uztaisīts izmantojot tikai vanilla js, css
